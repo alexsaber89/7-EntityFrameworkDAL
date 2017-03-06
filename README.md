@@ -6,5 +6,6 @@ Using your Music History ERD as a basis, create your database using Entity Frame
 ## Steps
 
 1. Ensure you have a logical ERD for Music History
+![ERD](./MusicHistoryERD.PNG)
 2. Create an ASP.NET MVC project.
 3. Implement models and model relationships in C#
